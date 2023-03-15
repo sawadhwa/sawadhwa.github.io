@@ -1,5 +1,6 @@
-theme: jekyll-theme-slate
+theme: pages-themes/cayman@v0.2.0
 title: Auditing race and gender inequality in data science related job market
 description: Sahil Wadhwa, Nancy Jiang
              Halicioglu Data Science Institute, University of California, San Diego 
+url: https://sawadhwa.github.io/
 
