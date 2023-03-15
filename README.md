@@ -26,10 +26,11 @@ Our first step will be collecting as much as possible data and then cleaning it.
   
    A snippet of one of the profiles can be found below:
    
+   <p align="center" <p>This is one of the example datasets for the recommendations for an Asian woman</p> </p>
    <p align="center">
     <img src="assets/Data1.png" alt="Data" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-<p align="center" <p>This is one of the example datasets for the recommendations for an Asian woman</p> </p>
+
    
 ## Results
 
