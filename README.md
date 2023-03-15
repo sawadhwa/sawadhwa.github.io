@@ -21,8 +21,9 @@ Our first step will be collecting as much as possible data and then cleaning it.
    The full dataset can be found here: [https://github.com/NJMIXI98/DSC180_Q2PROJECT](https://github.com/NJMIXI98/DSC180_Q2PROJECT/tree/main/q2_dataset)
   
    A snippet of one of the profiles can be found below:
- 
-
+   
+   [Data1](https://user-images.githubusercontent.com/63216907/225209114-b8055514-6d52-4a52-8402-c68aabd565d7.png)
+   
 ## Results
 
    As we began our ANOVA test, the first attribute that we looked at was the job level difference that was offered by different companies between the different races. As you can see in Figure 1 below, we found that the Hispanic people actually received the highest level of jobs at the mid-senior level followed by the Asian people, Black people and White people. 
@@ -30,7 +31,11 @@ Our first step will be collecting as much as possible data and then cleaning it.
    The third attribute that we studied was the type of jobs that were offered to each gender and race. This attribute gave us varied results and there wasn’t one consecutive pattern throughout each race or even each gender. For some races, the higher level job offers were received more by the women than the men. However, some of the other races had the men receive the higher level jobs so there was no obvious pattern.
    The statistical results of our two-way ANOVA test which used an average job level of ranked recommendation which was dependent on the applicant’s gender and race (ethnicity) in an online job market website gave us different results for each measure. For the p-value for the gender test, we received a value of 0.799. Meanwhile, for the p-value for the race test, we received a value of 0.092. Finally, for the p-value of the race and gender test, we received a value of 0.6.
    
-   [README.md](https://user-images.githubusercontent.com/63216907/225207898-9b4f4c61-d530-4be7-a116-54e40950343c.png)
+   [Figure1](https://user-images.githubusercontent.com/63216907/225207898-9b4f4c61-d530-4be7-a116-54e40950343c.png)
+   
+   [Figure2](hhttps://user-images.githubusercontent.com/63216907/225208700-2ccbf0d3-29ed-4cfa-95f6-0aada4c07397.png)
+   
+   [Table1](https://user-images.githubusercontent.com/63216907/225208903-e558cc49-9d3a-4818-93e6-34b36c133cf8.png)
    
 ## Discussion
 
