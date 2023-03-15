@@ -38,14 +38,23 @@ Our first step will be collecting as much as possible data and then cleaning it.
    <p align="center">
     <img src="assets/Figure1.png" alt="Figure 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
+
+<a align="center" <p>This text is bold</p> </a>
+
    
    <p align="center">
     <img src="assets/Figure2.png" alt="Figure 2" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
+
+<a align="center" <p>This text is bold</p> </a>
+
    
   <p align="center">
     <img src="assets/PVal.png" alt="Table 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
+
+<a align="center" <p>This text is bold</p> </a>
+
    
 ## Discussion
 
