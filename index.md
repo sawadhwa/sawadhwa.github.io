@@ -34,10 +34,11 @@ Our first step will be collecting as much as possible data and then cleaning it.
    The statistical results of our two-way ANOVA test which used an average job level of ranked recommendation which was dependent on the applicant’s gender and race (ethnicity) in an online job market website gave us different results for each measure. For the p-value for the gender test, we received a value of 0.799. Meanwhile, for the p-value for the race test, we received a value of 0.092. Finally, for the p-value of the race and gender test, we received a value of 0.6.
       
 			<p>Figure 1: The distribution of job level difference for each race</p>
+			<small>The distribution of job level difference for each race</small>
+
    <p align="center">
     <img src="assets/Figure1.png" alt="Figure 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-
 
 			<p>Figure 2: The distribution of numbers of the company employees for each race</p>
    <p align="center">
@@ -46,7 +47,7 @@ Our first step will be collecting as much as possible data and then cleaning it.
  
 
    
-			<p>Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the 							applicant’s gender and race(ethnicity) in online job market website. n=16</p>
+			<pTable 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the 							applicant’s gender and race(ethnicity) in online job market website. n=16</p>
   <p align="center">
     <img src="assets/PVal.png" alt="Table 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
