@@ -1,4 +1,4 @@
-# Size Limit [![Cult Of Martians][cult-img]][cult]
+# Auditing race and gender inequality in data science related job market
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
