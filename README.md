@@ -1,5 +1,9 @@
 # Auditing race and gender inequality in data science related job market
 
+Sahil Wadhwa, Nancy Jiang 
+
+Halicioglu Data Science Institute, University of California, San Diego 
+
 ## Introduction
    
    The project code can be found here: https://github.com/NJMIXI98/DSC180_Q2PROJECT
