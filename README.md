@@ -26,7 +26,11 @@ Our first step will be collecting as much as possible data and then cleaning it.
   
    A snippet of one of the profiles can be found below:
    
-   [Data1](https://user-images.githubusercontent.com/63216907/225209114-b8055514-6d52-4a52-8402-c68aabd565d7.png)
+   <p align="center">
+    <img src="assets/Data1.png" alt="Data" width="50%" margin-left="auto" margin-right="auto"/>
+</p>
+
+<a align="center" <p>This text is bold</p> </a>
    
 ## Results
 
