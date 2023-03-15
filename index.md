@@ -35,15 +35,24 @@ Our first step will be collecting as much as possible data and then cleaning it.
    <p align="center">
     <img src="assets/Figure1.png" style="width:500px">
 </p>
+
+Figure 1: The distribution of job level difference for 
+each race.
+
 				
    <<p align="center">
     <img src="assets/Figure2.png" style="width:500px">
 </p>
 
+Figure 2: The distribution of numbers of the company employees for each race.
+
+
 <p align="center">
     <img src="assets/PVal.png" style="width:500px">
 </p>
- 
+
+Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the applicant’s gender and race(ethnicity) in online job market website.  n=16
+
 ## Discussion
 
    In our project, we tried to discover if gender and racial bias was present in data science employment. According to our results, our test failed to reject the null hypotheses. We calculated this by using a two-way ANOVA test using average job level as our dependent variable meanwhile race and gender served as our independent variables. The result shows that none of our three tests (gender, race, race + gender) show any type of inequality. The reason why we are rejecting our hypotheses is because none of our p-values was under the standard 0.05 level. However, if we used the 0.1 level of significance, there might have been some differential treatment when it came to race. That level of significance is a very weak indicator so we decided to keep our original results. 
