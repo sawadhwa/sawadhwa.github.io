@@ -29,8 +29,7 @@ Our first step will be collecting as much as possible data and then cleaning it.
    <p align="center">
     <img src="assets/Data1.png" alt="Data" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-
-<p align="center" <p>This text is bold</p> </p>
+<p align="center" <p>This is one of the example datasets for the recommendations for an Asian woman</p> </p>
    
 ## Results
 
@@ -42,7 +41,6 @@ Our first step will be collecting as much as possible data and then cleaning it.
    <p align="center">
     <img src="assets/Figure1.png" alt="Figure 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-
 <p align="center" <p>Figure 1: The distribution of job level difference for 
 each race</p> </p>
 
@@ -51,7 +49,6 @@ each race</p> </p>
    <p align="center">
     <img src="assets/Figure2.png" alt="Figure 2" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-
 <p align="center" <p>Figure 2: The distribution of numbers of the company employees for each race
 </p> </p>
 
@@ -60,7 +57,6 @@ each race</p> </p>
   <p align="center">
     <img src="assets/PVal.png" alt="Table 1" width="50%" margin-left="auto" margin-right="auto"/>
 </p>
-
 <p align="center" <p>Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the applicant’s gender and race(ethnicity) in online job market website. n=16
 </p> </p>
 
