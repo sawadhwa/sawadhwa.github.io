@@ -36,5 +36,6 @@
 ### References
 
 Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, Data Scientists,
-at https://www.bls.gov/ooh/math/data-scientists.htm (visited November 28, 2022).
+at https://www.bls.gov/ooh/math/data-scientists.htm (visited November 28, 2022)
+
 Stier, H., & Yaish, M. (2014). Occupational segregation and gender inequality in job quality: a multi-level approach. Work, Employment and Society, 28(2), 225–246. https://doi.org/10.1177/0950017013510758
