@@ -1,9 +1,5 @@
 # Website Link: https://sawadhwa.github.io/
 
-Sahil Wadhwa, Nancy Jiang 
-
-Halicioglu Data Science Institute, University of California, San Diego 
-
 ## Introduction
    
    The project code can be found here: [https://github.com/NJMIXI98/DSC180_Q2PROJECT](https://github.com/NJMIXI98/DSC180_Q2PROJECT.git)
