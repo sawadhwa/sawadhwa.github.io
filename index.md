@@ -1,6 +1,6 @@
 # Auditing Race and Gender Inequality in Data Science Related Job Market
 
-## Github Code: https://github.com/NJMIXI98/DSC180_Q2PROJECT.git
+# Github Code: https://github.com/NJMIXI98/DSC180_Q2PROJECT.git
 
 ## Introduction
  
