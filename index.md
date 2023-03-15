@@ -37,21 +37,21 @@ Our first step will be collecting as much as possible data and then cleaning it.
 </p>
 
 Figure 1: The distribution of job level difference for 
-each race.
+each race
 
 				
    <<p align="center">
     <img src="assets/Figure2.png" style="width:500px">
 </p>
 
-Figure 2: The distribution of numbers of the company employees for each race.
+Figure 2: The distribution of numbers of the company employees for each race
 
 
 <p align="center">
     <img src="assets/PVal.png" style="width:500px">
 </p>
 
-Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the applicant’s gender and race(ethnicity) in online job market website.  n=16
+Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the applicant’s gender and race(ethnicity) in online job market website. n=16
 
 ## Discussion
 
