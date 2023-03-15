@@ -37,7 +37,7 @@ Our first step will be collecting as much as possible data and then cleaning it.
    
    [Figure1](https://user-images.githubusercontent.com/63216907/225207898-9b4f4c61-d530-4be7-a116-54e40950343c.png)
    
-   [Figure2](hhttps://user-images.githubusercontent.com/63216907/225208700-2ccbf0d3-29ed-4cfa-95f6-0aada4c07397.png)
+   [Figure2](https://user-images.githubusercontent.com/63216907/225208700-2ccbf0d3-29ed-4cfa-95f6-0aada4c07397.png)
    
    [Table1](https://user-images.githubusercontent.com/63216907/225208903-e558cc49-9d3a-4818-93e6-34b36c133cf8.png)
    
