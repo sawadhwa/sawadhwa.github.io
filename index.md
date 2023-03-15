@@ -21,7 +21,7 @@ Our first step will be collecting as much as possible data and then cleaning it.
    A snippet of one of the profiles can be found below:
    
    <p align="center">
-    <img src="assets/Data1.png" <figcaption>This is one of the example datasets for the recommendations for an Asian woman</figcaption> alt="Data" width="50%" margin-left="auto" margin-right="auto"/>
+    <img src="assets/Data1.png" <figcaption>This is one of the example datasets for the recommendations for an Asian woman</figcaption> 
 </p>
 
    
@@ -34,17 +34,17 @@ Our first step will be collecting as much as possible data and then cleaning it.
       
 			
    <p align="center">
-    <img src="assets/Figure1.png" <figcaption>Figure 2: The distribution of job level difference for each race</figcaption> alt="Figure 1" width="50%" margin-left="auto" margin-right="auto"/>
+    <img src="assets/Figure1.png" <figcaption>Figure 1: The distribution of job level difference for each race</figcaption> 
 </p>
 
 		
    <p align="center">
-    <img src="assets/Figure2.png" <figcaption>Figure 2: The distribution of numbers of the company employees for each race</figcaption>  alt="Figure 2" width="50%" margin-left="auto" margin-right="auto"/>
+    <img src="assets/Figure2.png" <figcaption>Figure 2: The distribution of numbers of the company employees for each race</figcaption> 
 </p>
  
 
   <p align="center">
-    <img src="assets/PVal.png" <figcaption>Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the 							applicant’s gender and race(ethnicity) in online job market website. n=16</figcaption> alt="Table 1" width="50%" margin-left="auto" margin-right="auto"/>
+    <img src="assets/PVal.png" <figcaption>Table 1: The results of a two-way ANOVA test with the average job level of ranked recommendation seen as dependent on the 							applicant’s gender and race(ethnicity) in online job market website. n=16</figcaption> 
 </p>
 
  
